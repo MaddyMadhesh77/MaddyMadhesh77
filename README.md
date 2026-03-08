@@ -1,16 +1,110 @@
-## Hi there 👋
+👋 Hi, I'm Madheswar
+Backend Engineer in Progress 🚀
 
-<!--
-**MaddyMadhesh77/MaddyMadhesh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year IT Student at VIT Vellore
+💻 Passionate about Backend Engineering, Distributed Systems, and Developer Tools
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building developer tools and backend systems
+
+🌱 Learning Backend Engineering, System Design, and Cloud Infrastructure
+
+🧠 Practicing Data Structures & Algorithms
+
+🎯 Goal: Become a Backend Engineer at a top product-based company
+
+🛠 Tech Stack
+Languages
+
+
+
+
+
+
+
+
+
+
+Frontend
+
+
+
+
+
+
+Backend & Tools
+
+
+
+
+
+
+
+
+
+
+🔨 Featured Projects
+🔥 Hotreload Engine
+
+A Go-based CLI tool that automatically rebuilds and restarts a server when file changes are detected.
+
+Concepts:
+
+File system watching
+
+Process management
+
+CLI tooling
+
+Build automation
+
+Tech:
+
+Go
+
+fsnotify
+
+☁️ Cloudeyy — Cloud Monitoring System
+
+An AWS-based cloud monitoring system that tracks cloud activity and sends alerts.
+
+Tech Stack:
+
+Amazon Web Services
+
+CloudTrail
+
+CloudWatch
+
+S3
+
+SNS
+
+📊 GitHub Stats
+
+🔥 Most Used Languages
+
+📈 GitHub Streak
+
+🎯 Current Focus
+
+Backend Engineering
+
+System Design
+
+Distributed Systems
+
+Competitive Programming
+
+🌐 Connect With Me
+
+Add your links here:
+
+LinkedIn
+
+Portfolio
+
+Email
+
+⭐ Always learning, building, and improving.
