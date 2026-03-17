@@ -1,28 +1,92 @@
-# Hi 👋, I'm Madheswar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-### Backend Engineer | Cloud Enthusiast | Competitive Programmer
+I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer 
 
-- 🔭 I'm currently working on **a Hackathon Management Platform**
+💡 *“Crafting logic and elegance in every line of code.”*
 
-- 🌱 I'm currently learning **System design and AI Integrations**
+---
 
-- 👯 I'm looking to collaborate on **open source projects**
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 
-- ⚡ Fun fact **0-indexed arrays are secretly a conspiracy by mathematicians to mess with programmers.**
+---
 
-- 👨‍💻 All of my projects are available at **[https://maddymadhesh77.github.io/Portfolio/](https://maddymadhesh77.github.io/Portfolio/)**
+### 📬 Connect with Me  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MaddyMadhesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MaddyMadhesh77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madheswar-r-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madheswar-r-s/" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/undividercoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/undividercoder/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aminehamzaoui1926@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://github.com/Saboo24">
+    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Saboo24">
+    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaddyMadhesh77&show_icons=true&locale=en&layout=compact" alt="MaddyMadhesh77" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaddyMadhesh77&show_icons=true&locale=en" alt="MaddyMadhesh77" /></p>
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=light" />
+  </a>
+</p>
 
+---
+
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+
+---
+
+### 🧩 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+
+---
+
+## 🏆 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
