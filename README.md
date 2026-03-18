@@ -1,27 +1,81 @@
-# Hi 👋, I'm Madheswar
+Hey there! 👋 I'm Madheswar
+<div align="center">
+Typing SVG
 
-### Backend Engineer | Cloud Enthusiast | Competitive Programmer
+</div>
+🚀 About Me
+TypeScript
 
-- 🔭 I'm currently working on **a Hackathon Management Platform**
+const madheswar = {
+    location: "India 🇮🇳",
+    currentFocus: "Building a Hackathon Management Platform",
+    learning: ["System Design", "AI Integrations", "Distributed Systems"],
+    lookingFor: "Open source collaborations",
+    funFact: "I debug in production and call it 'testing in the wild' 🐛",
+    lifePhilosophy: "Code is poetry, bugs are just unexpected features"
+};
+💼 What I'm Up To
+🔨 Currently Building: A comprehensive Hackathon Management Platform
+📚 Deep Diving Into: System Design Patterns & AI/ML Integrations
+🤝 Open To: Collaborating on impactful open source projects
+💡 Ask Me About: Backend Architecture, Cloud Infrastructure, or why tabs > spaces
+🛠️ Tech Arsenal
+<details open> <summary><b>Languages</b></summary> <br>
+JavaScript
+TypeScript
+Python
+Java
+Go
+C++
 
-- 🌱 I'm currently learning **System design and AI Integrations**
+</details><details open> <summary><b>Backend & Frameworks</b></summary> <br>
+Node.js
+Express
+Django
+Spring
+React
 
-- 👯 I'm looking to collaborate on **open source projects**
+</details><details open> <summary><b>Cloud & DevOps</b></summary> <br>
+AWS
+Docker
+Git
+Linux
+Grafana
 
-- ⚡ Fun fact **0-indexed arrays are secretly a conspiracy by mathematicians to mess with programmers.**
+</details><details open> <summary><b>Databases & Tools</b></summary> <br>
+PostgreSQL
+MongoDB
+MySQL
+Redis
+Firebase
 
-- 👨‍💻 All of my projects are available at **[https://maddymadhesh77.github.io/Portfolio/](https://maddymadhesh77.github.io/Portfolio/)**
+</details><details> <summary><b>AI/ML</b></summary> <br>
+TensorFlow
+PyTorch
+OpenCV
+scikit-learn
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MaddyMadhesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MaddyMadhesh77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madheswar-r-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madheswar-r-s/" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/undividercoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/undividercoder/" height="30" width="40" /></a>
-</p>
+</details>
+📊 GitHub Stats
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaddyMadhesh77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyMadhesh77&layout=compact&langs_count=8&theme=tokyonight"/></div><div align="center">
+GitHub Streak
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+</div>
+🏆 Competitive Programming
+<div align="center">
+LeetCode Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaddyMadhesh77&show_icons=true&locale=en&layout=compact" alt="MaddyMadhesh77" /></p>
+</div>
+🤝 Let's Connect!
+<div align="center">
+Portfolio
+LinkedIn
+LeetCode
+GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaddyMadhesh77&show_icons=true&locale=en" alt="MaddyMadhesh77" /></p>
+</div>
+<div align="center">
+💬 "Talk is cheap. Show me the code." - Linus Torvalds
+Profile Views
+
+</div>
