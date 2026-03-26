@@ -11,7 +11,7 @@
 ```typescript
 const madheswar = {
     location: "India 🇮🇳",
-    currentFocus: "Building a Hackathon Management Platform",
+    currentFocus: "Building a Management Platform",
     learning: ["System Design", "AI Integrations", "Distributed Systems"],
     lookingFor: "Open source collaborations",
     funFact: "I debug in production and call it 'testing in the wild' 🐛",
@@ -23,7 +23,7 @@ const madheswar = {
 
 ## 💼 What I'm Up To
 
-- 🔨 **Currently Building:** A comprehensive Hackathon Management Platform
+- 🔨 **Currently Building:** A comprehensive Management Platform
 - 📚 **Deep Diving Into:** System Design Patterns & AI/ML Integrations
 - 🤝 **Open To:** Collaborating on impactful open source projects
 - 💡 **Ask Me About:** Backend Architecture, Cloud Infrastructure, or why tabs > spaces
