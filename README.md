@@ -81,6 +81,22 @@ const madheswar = {
 
 </details>
 
+<details open>
+<summary><b>Big Data</b></summary>
+<br>
+
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</details>
+
 <details>
 <summary><b>AI/ML</b></summary>
 <br>
@@ -115,7 +131,7 @@ const madheswar = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode.com/u/undividercoder/)]
+[![LeetCode Stats](https://leetcard.jacoblin.cool/undividercoder?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/undividercoder/)
 
 </div>
 
@@ -125,10 +141,10 @@ const madheswar = {
 
 <div align="center">
 
-[![Portfolio](http://madheswar.vercel.app/)]
-[![LinkedIn](https://www.linkedin.com/in/madheswar-r-s/)]
-[![LeetCode](https://leetcode.com/u/undividercoder/)]
-[![X](https://x.com/MadheswarS86115)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://madheswar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madheswar-r-s/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/undividercoder/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MadheswarS86115)
 
 </div>
 
