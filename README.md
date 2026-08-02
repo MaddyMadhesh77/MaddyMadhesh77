@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=Madheswar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Madheswar;Backend+Engineer+%7C+Cloud+%7C+Systems;Building+scalable+systems+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
 </div>
----
 
 ---
 
