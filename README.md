@@ -157,6 +157,4 @@ const madheswar = {
 
 💬 *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaddyMadhesh77&color=00D9FF&style=for-the-badge)
-
 </div>
