@@ -115,7 +115,7 @@ const madheswar = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MaddyMadhesh77?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/MaddyMadhesh77)
+[![LeetCode Stats](https://leetcode.com/u/undividercoder/)]
 
 </div>
 
@@ -125,10 +125,10 @@ const madheswar = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/MaddyMadhesh77)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaddyMadhesh77)
+[![Portfolio](http://madheswar.vercel.app/)]
+[![LinkedIn](https://www.linkedin.com/in/madheswar-r-s/)]
+[![LeetCode](https://leetcode.com/u/undividercoder/)]
+[![X](https://x.com/MadheswarS86115)]
 
 </div>
 
