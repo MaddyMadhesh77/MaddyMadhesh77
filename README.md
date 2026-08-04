@@ -6,7 +6,7 @@
 
 it undergrad · currently building backend systems & cloud architecture
 
-[blogs](https://madheswar.vercel.app/blogs) · [systems](https://madheswar.vercel.app/Projects) · [x](https://x.com/MadheswarS86115)
+[portfolio](https://madheswar.vercel.app) · [systems](https://madheswar.vercel.app/Projects) · [x](https://x.com/MadheswarS86115)
 
 writing about systems i design, sharing code i build, and always happy to connect
 
